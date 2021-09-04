@@ -1,0 +1,6 @@
+changes made to check conflicts 
+While push code from local repository to remote repository....
+
+Solution :
+first  pull the code to local repository and 
+Then push the code to remote repository with new changes.
